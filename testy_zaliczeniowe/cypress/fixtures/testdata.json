@@ -1,0 +1,26 @@
+[
+    {
+        "wzrost": "174",
+        "waga": "72",
+        "parametry": "Wzrost: 174cm Waga: 72kg",
+        "stan": "waga optymalna"
+    },
+    {
+        "wzrost": "174",
+        "waga": "85",
+        "wpisyWynikow1": "Pomiar#1",
+        "wpisyWynikow2": "(174-85)"
+    },
+    {
+        "wzrost": "180",
+        "waga": "85"
+    },
+    {
+        "wzrost1": "174",
+        "wzrost2": "174",
+        "waga1": "72",
+        "waga2": "85",
+        "srednia": "Średnia wszystkich wyników: 25,93"
+    }
+]
+
