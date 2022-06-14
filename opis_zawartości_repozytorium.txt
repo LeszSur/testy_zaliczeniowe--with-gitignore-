@@ -3,6 +3,8 @@ obie aplikacje znajdują się na publicznym hostingu www na githubie:
     https://leszsur.github.io/Kalkulator-BMI/
     https://leszsur.github.io/Pogodynka/
 
+testy wykonano w wersji cypress 9.7.0
+
 Spełnienie wymagań projektu:
 
 w repozytorium znajduje się 10 testów automatycznych (w dwóch zestawach po 5 z wykorzystaniem każdej z aplikacji) 
@@ -10,6 +12,7 @@ w każdym teście znajduje się co najmniej jedna asercja
 
 1. repozytorium jest skonfigurowne w zakresie generownia raportów html z wykorzystaniem biblioteki mochawesome reporter
 
+wersja biblioteki mochawesome reporter: 3.1.0
 plugin biblioteki mochawesome reporter jest skonfigurowany w pliku indeks.js w katalogu /plugins 
 konfiguracja raportów natomiast znajduje się w pliku cypress.json - linie 4-9 i /support/index.js linia 1
 
@@ -30,4 +33,3 @@ gotowe, już wygenerowane raporty dla obu zestawów testów znajdują się w kat
    polecenie uruchamiające nagrywanie do dashboardu: npx cypress run --record --key 73d61b19-b6ec-46c1-b071-3ff308d8362f
 
    adres publiczny dashboardu: https://dashboard.cypress.io/projects/xnvr3g/
-
