@@ -1,9 +1,0 @@
-{
-    "projectId": "xnvr3g",
-    "reporter": "cypress-mochawesome-reporter",
-    "reporterOptions": {
-      "reportDir": "cypress/report",
-      "charts": true,
-      "reportPageTitle": "Raport z testów zaliczeniowych"
-    }
-  }
