@@ -40,7 +40,7 @@ context('Entering selected app, and tests its functionality', () => {
             })
 
         it('test_2.5_what_contains_footer_after_searching_data', ()=>{
-            cy.get('#containerMessages').should('have.text', 'zakończono wczytywanie danych@żródło:wowapi.Hubert.Zub');
+            cy.get('#containerMessages').should('have.text', 'zakończono wczytywanie danych@żródło:herokuapp.Hubert.Zub');
             })
 
     })
